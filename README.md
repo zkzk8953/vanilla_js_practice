@@ -1,1 +1,1 @@
-# vanilla_js_practice
+# Vanilla_JS
